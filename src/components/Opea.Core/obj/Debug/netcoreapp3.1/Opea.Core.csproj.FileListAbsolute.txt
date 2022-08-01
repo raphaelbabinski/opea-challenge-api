@@ -1,0 +1,10 @@
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\bin\Debug\netcoreapp3.1\Opea.Core.deps.json
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\bin\Debug\netcoreapp3.1\Opea.Core.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\bin\Debug\netcoreapp3.1\Opea.Core.pdb
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\obj\Debug\netcoreapp3.1\Opea.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\obj\Debug\netcoreapp3.1\Opea.Core.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\obj\Debug\netcoreapp3.1\Opea.Core.AssemblyInfo.cs
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\obj\Debug\netcoreapp3.1\Opea.Core.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\obj\Debug\netcoreapp3.1\Opea.Core.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\obj\Debug\netcoreapp3.1\Opea.Core.pdb
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.Core\obj\Debug\netcoreapp3.1\Opea.Core.csproj.AssemblyReference.cache

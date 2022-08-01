@@ -1,0 +1,13 @@
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\bin\Debug\netcoreapp3.1\Opea.WebApi.Core.deps.json
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\bin\Debug\netcoreapp3.1\Opea.WebApi.Core.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\bin\Debug\netcoreapp3.1\Opea.WebApi.Core.pdb
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\bin\Debug\netcoreapp3.1\Opea.Core.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\bin\Debug\netcoreapp3.1\Opea.Core.pdb
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.csproj.AssemblyReference.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.AssemblyInfo.cs
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.csproj.CopyComplete
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\components\Opea.WebApi.Core\obj\Debug\netcoreapp3.1\Opea.WebApi.Core.pdb

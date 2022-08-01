@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\components\Opea.Core\Opea.Core.csproj" />
+    <ProjectReference Include="..\..\components\Opea.WebApi.Core\Opea.WebApi.Core.csproj" />
+  </ItemGroup>
+
+</Project>

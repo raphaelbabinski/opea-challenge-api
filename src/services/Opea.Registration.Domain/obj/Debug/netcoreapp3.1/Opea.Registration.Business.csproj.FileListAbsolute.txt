@@ -1,0 +1,15 @@
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\bin\Debug\netcoreapp3.1\Opea.Registration.Business.deps.json
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\bin\Debug\netcoreapp3.1\Opea.Registration.Business.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\bin\Debug\netcoreapp3.1\Opea.Registration.Business.pdb
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\bin\Debug\netcoreapp3.1\Opea.Core.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\bin\Debug\netcoreapp3.1\Opea.WebApi.Core.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\bin\Debug\netcoreapp3.1\Opea.Core.pdb
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\bin\Debug\netcoreapp3.1\Opea.WebApi.Core.pdb
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.csproj.AssemblyReference.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.AssemblyInfo.cs
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.csproj.CopyComplete
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.dll
+D:\Tecnologia\Projetos\Opea\Opea\src\services\Opea.Registration.Domain\obj\Debug\netcoreapp3.1\Opea.Registration.Business.pdb

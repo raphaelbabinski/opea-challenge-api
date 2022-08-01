@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>ba3bd41e-60a0-4erd-e979-8s174d1889of</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\components\Opea.Core\Opea.Core.csproj" />
+    <ProjectReference Include="..\..\components\Opea.WebApi.Core\Opea.WebApi.Core.csproj" />
+  </ItemGroup>
+
+
+</Project>
